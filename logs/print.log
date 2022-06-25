@@ -1,0 +1,4 @@
+00:39:27.881 [TestNG-tests-1] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0xbb70873a12507578
+00:39:28.048 [TestNG-tests-2] INFO  resources.base - Driver is initialised
+00:40:02.954 [TestNG-tests-2] INFO  resources.base - Navigated to HomePage
+00:40:03.069 [TestNG-tests-2] INFO  resources.base - Sucessfully checked whether displayed or not
